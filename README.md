@@ -1,5 +1,8 @@
-# MSc-thesis-dataset-reliability
-Predicting dataset reliability through Kaggle Datasets.
+# MSc Thesis Dataset Reliability
+
+## Master Information Studies: Information Systems track
+
+### Predicting dataset reliability through Kaggle Datasets.
 
 This repository contains the following:
 
